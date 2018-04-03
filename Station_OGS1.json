@@ -1,0 +1,95 @@
+[ 
+  {
+    "station": {
+	    "code":"OGS1",
+	    "description": "Galerie glissement de terrain de Sechilienne - 38478 - Sechilienne - Isere - Auvergne-Rhone-Alpes - France",
+	    "latitude": 45.0608,
+	    "longitude": 5.80464,
+	    "elevation": 775,
+	    "address_street": "Galerie glissement de terrain de Sechilienne",
+	    "address_zipcode": "38478",
+	    "address_city": "Sechilienne",
+	    "address_region": "Auvergne-Rhone-Alpes",
+	    "address_county": "Isere",
+	    "address_country": "France"
+    	},
+    "place":{
+ 
+        "name": " Cabane B ",
+        "type": "Warehouse",
+        "creation_date": "1970-01-01",
+        "note": null,
+        "is_ready": false,
+        "geology": null,
+        "ground_type": null,
+        "contact": null,
+	"latitude": 45.0608,
+	"longitude": 5.80464,
+	"elevation": 775,
+        "agencies": [
+            "OSUG"
+        ],
+        "documents": []
+    	},
+    "periodes": [
+                {  "start": "2012-07-17T18:00:00",
+                   "end": null,
+    			   "equipments" : [ {
+									    "name": "5352",
+									    "model":"ES-T",
+									    "owner": "OSUG",
+									    "vendor": "",
+									    "contact": null,
+									    "purchase_date": "1970-01-01",
+									    "note": "",
+									    "configuration":[]
+									},
+									{
+									    "name": "0273",
+									    "model": "Trident",
+									    "owner": "OSUG",
+									    "vendor": "",
+									    "contact": null,
+									    "purchase_date": "1970-01-01",
+									    "note": "",
+									    "configuration":[{
+									    				"parameter" : "Gain",
+									    				"value" :"0.4"
+									    				}
+									    	]
+									}
+									],
+    			   "channels" : [  {
+								    "network": "Z3",
+								    "code": "HNE", 
+								    "location_code": "00",
+								    "sample_rate": 120.0,
+								    "is_production": false,
+								    "datatypes": ["CONTINUOUS"],
+								    "configuration":[]
+								},
+								{
+								    "network": "Z3",
+								    "code": "HNN", 
+								    "location_code": "00",
+								    "sample_rate": 120.0,
+								    "datatypes": ["CONTINUOUS"],
+								    "configuration":[]
+								},
+				   			{
+								    "network": "Z3",
+								    "code": "HNZ", 
+								    "location_code": "00",
+								    "sample_rate": 120.0,
+								    "datatypes": ["CONTINUOUS"],
+								    "configuration":[]
+								}
+								 ]
+
+
+                  }
+                  ]
+
+   }
+]
+

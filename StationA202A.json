@@ -1,0 +1,279 @@
+[ 
+  {
+    "station": {
+	    "code":"A202A",
+	    "description": "Besse-et-Saint-Anastaise - 63038 - Puy-de-Dome - Auvergne-Rhone-Alpes - France",
+	    "latitude": 43.5025,
+	    "longitude": 3.2602,
+	    "elevation": 212,
+	    "address_street": "Domaine d Cadables",
+	    "address_zipcode": "34109",
+	    "address_city": "Gabian",
+	    "address_region": "Auvergne-Rhone-Alpes",
+	    "address_county": " Puy-de-Dome",
+	    "address_country": " France"
+    	},
+    "place":{
+ 
+        "name": " Cabane ",
+        "type": "Tunnel",
+        "creation_date": "1970-01-01",
+        "note": null,
+        "is_ready": false,
+        "geology": null,
+        "ground_type": null,
+        "contact": null,
+	    "latitude": 43.5025,
+	    "longitude": 3.2602,
+	    "elevation": 212,
+        "agencies": [
+            "SISMOB"
+        ],
+        "documents": []
+    	},
+    "periodes": [
+                {  "start": "2016-08-26T00:00:00",
+                   "end": "2016-12-13T13:00:00",
+    			   "equipments" : [ {
+									    "name": "T4P06",
+									    "model":"CMG-40T",
+									    "owner": "SISMOB",
+									    "vendor": "",
+									    "contact": null,
+									    "purchase_date": "1970-01-01",
+									    "note": "",
+									    "configuration":[]
+									},
+									{
+									    "name": "1339",
+									    "model": "Taurus",
+									    "owner": "SISMOB",
+									    "vendor": "",
+									    "contact": null,
+									    "purchase_date": "1970-01-01",
+									    "note": "",
+									    "configuration":[{
+									    				"parameter" : "Gain",
+									    				"value" :"0.4"
+									    				}
+									    	]
+									}
+									],
+    			   "channels" : [  {
+								    "network": "Z3",
+								    "code": "HHE", 
+								    "location_code": "00",
+								    "sample_rate": 100.0,
+								    "is_production": false,
+								    "datatypes": ["CONTINUOUS"],
+									"configuration":[{
+									    				"parameter" : "dip",
+									    				"value" :"0"
+									    				},
+									    				{
+									    				"parameter" : "azimuth",
+									    				"value" :"90"
+									    				}
+									    	]
+								},
+								{
+								    "network": "Z3",
+								    "code": "HHN", 
+								    "location_code": "00",
+								    "sample_rate": 100.0,
+								    "datatypes": ["CONTINUOUS"],
+									"configuration":[{
+									    				"parameter" : "dip",
+									    				"value" :"0"
+									    				},
+									    				{
+									    				"parameter" : "azimuth",
+									    				"value" :"0"
+									    				}
+									    	]
+								},
+				   			{
+								    "network": "Z3",
+								    "code": "HHZ", 
+								    "location_code": "00",
+								    "sample_rate": 100.0,
+								    "datatypes": ["CONTINUOUS"],
+									"configuration":[{
+									    				"parameter" : "dip",
+									    				"value" :"-90"
+									    				},
+									    				{
+									    				"parameter" : "azimuth",
+									    				"value" :"0"
+									    				}
+									    	]							
+									 }
+								 ]
+
+
+                  },
+                  {  "start": "2016-12-13T14:00:00",
+                   "end": "2017-08-09T14:15:00",
+    			   "equipments" : [ {
+									    "name": "T4P06",
+									    "model":"CMG-40T",
+									    "owner": "SISMOB",
+									    "vendor": "",
+									    "contact": null,
+									    "purchase_date": "1970-01-01",
+									    "note": "",
+									    "configuration":[]
+									},
+									{
+									    "name": "2277",
+									    "model": "Taurus",
+									    "owner": "SISMOB",
+									    "vendor": "",
+									    "contact": null,
+									    "purchase_date": "1970-01-01",
+									    "note": "",
+									    "configuration":[{
+									    				"parameter" : "Gain",
+									    				"value" :"0.4"
+									    				}
+									    	]
+									}
+									],
+    			   "channels" : [  {
+								    "network": "Z3",
+								    "code": "HHE", 
+								    "location_code": "00",
+								    "sample_rate": 100.0,
+								    "is_production": false,
+								    "datatypes": ["CONTINUOUS"],
+									"configuration":[{
+									    				"parameter" : "dip",
+									    				"value" :"-90"
+									    				},
+									    				{
+									    				"parameter" : "azimuth",
+									    				"value" :"0"
+									    				}
+									    	]
+								},
+								{
+								    "network": "Z3",
+								    "code": "HHN", 
+								    "location_code": "00",
+								    "sample_rate": 100.0,
+								    "datatypes": ["CONTINUOUS"],
+									"configuration":[{
+									    				"parameter" : "dip",
+									    				"value" :"-90"
+									    				},
+									    				{
+									    				"parameter" : "azimuth",
+									    				"value" :"0"
+									    				}
+									    	]
+								},
+				   			{
+								    "network": "Z3",
+								    "code": "HHZ", 
+								    "location_code": "00",
+								    "sample_rate": 100.0,
+								    "datatypes": ["CONTINUOUS"],
+									"configuration":[{
+									    				"parameter" : "dip",
+									    				"value" :"-90"
+									    				},
+									    				{
+									    				"parameter" : "azimuth",
+									    				"value" :"0"
+									    				}
+									    	]
+								}
+								 ]
+
+
+                  },
+                  {  "start": "2017-08-09T15:00:00",
+                   "end": null,
+    			   "equipments" : [ {
+									    "name": "T4B04",
+									    "model":"CMG-40T",
+									    "owner": "SISMOB",
+									    "vendor": "",
+									    "contact": null,
+									    "purchase_date": "1970-01-01",
+									    "note": "",
+									    "configuration":[]
+									},
+									{
+									    "name": "2277",
+									    "model": "Taurus",
+									    "owner": "SISMOB",
+									    "vendor": "",
+									    "contact": null,
+									    "purchase_date": "1970-01-01",
+									    "note": "",
+									    "configuration":[{
+									    				"parameter" : "Gain",
+									    				"value" :"0.4"
+									    				}
+									    	]
+									}
+									],
+    			   "channels" : [  {
+								    "network": "Z3",
+								    "code": "HHE", 
+								    "location_code": "00",
+								    "sample_rate": 100.0,
+								    "is_production": false,
+								    "datatypes": ["CONTINUOUS"],
+									"configuration":[{
+									    				"parameter" : "dip",
+									    				"value" :"-90"
+									    				},
+									    				{
+									    				"parameter" : "azimuth",
+									    				"value" :"0"
+									    				}
+									    	]
+								},
+								{
+								    "network": "Z3",
+								    "code": "HHN", 
+								    "location_code": "00",
+								    "sample_rate": 100.0,
+								    "datatypes": ["CONTINUOUS"],
+									"configuration":[{
+									    				"parameter" : "dip",
+									    				"value" :"-90"
+									    				},
+									    				{
+									    				"parameter" : "azimuth",
+									    				"value" :"0"
+									    				}
+									    	]
+								},
+				   			{
+								    "network": "Z3",
+								    "code": "HHZ", 
+								    "location_code": "00",
+								    "sample_rate": 100.0,
+								    "datatypes": ["CONTINUOUS"],
+									"configuration":[{
+									    				"parameter" : "dip",
+									    				"value" :"-90"
+									    				},
+									    				{
+									    				"parameter" : "azimuth",
+									    				"value" :"0"
+									    				}
+									    	]
+								}
+								 ]
+
+
+                  }
+                  ]
+
+   }
+]
+

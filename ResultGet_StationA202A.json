@@ -1,0 +1,225 @@
+{
+    "station": "A202A",
+    "latitude": "43.502500",
+    "longitude": "3.260200",
+    "elevation": "212.0",
+    "site": "Besse-et-Saint-Anastaise - 63038 - Puy-de-Dome - Auvergne-Rhone-Alpes - France",
+    "channels": [
+        {
+            "code": "HHE",
+            "frequency": 100.0,
+            "start": "2016-08-26T00:00:00",
+            "end": "2016-12-13T13:00:00",
+            "equipments": [
+                {
+                    "Numerp de serie ": "T4P06",
+                    " Modele": "CMG-40T",
+                    " Type ": "Velocimeter",
+                    "configurations": []
+                },
+                {
+                    "Numerp de serie ": "1339",
+                    " Modele": "Taurus",
+                    " Type ": "Datalogger",
+                    "configurations": [
+                        {
+                            "Gain": "0.4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "HHN",
+            "frequency": 100.0,
+            "start": "2016-08-26T00:00:00",
+            "end": "2016-12-13T13:00:00",
+            "equipments": [
+                {
+                    "Numerp de serie ": "T4P06",
+                    " Modele": "CMG-40T",
+                    " Type ": "Velocimeter",
+                    "configurations": []
+                },
+                {
+                    "Numerp de serie ": "1339",
+                    " Modele": "Taurus",
+                    " Type ": "Datalogger",
+                    "configurations": [
+                        {
+                            "Gain": "0.4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "HHZ",
+            "frequency": 100.0,
+            "start": "2016-08-26T00:00:00",
+            "end": "2016-12-13T13:00:00",
+            "equipments": [
+                {
+                    "Numerp de serie ": "T4P06",
+                    " Modele": "CMG-40T",
+                    " Type ": "Velocimeter",
+                    "configurations": []
+                },
+                {
+                    "Numerp de serie ": "1339",
+                    " Modele": "Taurus",
+                    " Type ": "Datalogger",
+                    "configurations": [
+                        {
+                            "Gain": "0.4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "HHE",
+            "frequency": 100.0,
+            "start": "2016-12-13T14:00:00",
+            "end": "2017-08-09T14:15:00",
+            "equipments": [
+                {
+                    "Numerp de serie ": "T4P06",
+                    " Modele": "CMG-40T",
+                    " Type ": "Velocimeter",
+                    "configurations": []
+                },
+                {
+                    "Numerp de serie ": "2277",
+                    " Modele": "Taurus",
+                    " Type ": "Datalogger",
+                    "configurations": [
+                        {
+                            "Gain": "0.4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "HHN",
+            "frequency": 100.0,
+            "start": "2016-12-13T14:00:00",
+            "end": "2017-08-09T14:15:00",
+            "equipments": [
+                {
+                    "Numerp de serie ": "T4P06",
+                    " Modele": "CMG-40T",
+                    " Type ": "Velocimeter",
+                    "configurations": []
+                },
+                {
+                    "Numerp de serie ": "2277",
+                    " Modele": "Taurus",
+                    " Type ": "Datalogger",
+                    "configurations": [
+                        {
+                            "Gain": "0.4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "HHZ",
+            "frequency": 100.0,
+            "start": "2016-12-13T14:00:00",
+            "end": "2017-08-09T14:15:00",
+            "equipments": [
+                {
+                    "Numerp de serie ": "T4P06",
+                    " Modele": "CMG-40T",
+                    " Type ": "Velocimeter",
+                    "configurations": []
+                },
+                {
+                    "Numerp de serie ": "2277",
+                    " Modele": "Taurus",
+                    " Type ": "Datalogger",
+                    "configurations": [
+                        {
+                            "Gain": "0.4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "HHE",
+            "frequency": 100.0,
+            "start": "2017-08-09T15:00:00",
+            "end": null,
+            "equipments": [
+                {
+                    "Numerp de serie ": "T4B04",
+                    " Modele": "CMG-40T",
+                    " Type ": "Velocimeter",
+                    "configurations": []
+                },
+                {
+                    "Numerp de serie ": "2277",
+                    " Modele": "Taurus",
+                    " Type ": "Datalogger",
+                    "configurations": [
+                        {
+                            "Gain": "0.4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "HHN",
+            "frequency": 100.0,
+            "start": "2017-08-09T15:00:00",
+            "end": null,
+            "equipments": [
+                {
+                    "Numerp de serie ": "T4B04",
+                    " Modele": "CMG-40T",
+                    " Type ": "Velocimeter",
+                    "configurations": []
+                },
+                {
+                    "Numerp de serie ": "2277",
+                    " Modele": "Taurus",
+                    " Type ": "Datalogger",
+                    "configurations": [
+                        {
+                            "Gain": "0.4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "HHZ",
+            "frequency": 100.0,
+            "start": "2017-08-09T15:00:00",
+            "end": null,
+            "equipments": [
+                {
+                    "Numerp de serie ": "T4B04",
+                    " Modele": "CMG-40T",
+                    " Type ": "Velocimeter",
+                    "configurations": []
+                },
+                {
+                    "Numerp de serie ": "2277",
+                    " Modele": "Taurus",
+                    " Type ": "Datalogger",
+                    "configurations": [
+                        {
+                            "Gain": "0.4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
